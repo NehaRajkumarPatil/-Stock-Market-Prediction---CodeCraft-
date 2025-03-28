@@ -24,21 +24,19 @@ Develop an integrated platform for stock market analysis and information retriev
 
 ---
 
-## 📂 **Project Structure**
-Stock-Market-Prediction/ 
-│── 📜 README.md 
-│── 📂 src/ 
-│── app.py # Main app file  
-│── stock_analysis.py # Stock price and trend analysis 
-│── news_scraper.py # Fetching news for stock market 
-│── agent.py # LangChain-based AI Agent 
-│── 📂 notebooks/ 
-│── analysis.ipynb # Jupyter Notebook for data analysis 
-│── 📂 docs/ │ 
-│── presentation.pptx # CodeCraft Presentation 
-│── 📂 requirements.txt 
-│── 📂 .gitignore
-
+Stock-Market-Prediction/
+│── 📜 README.md
+│── 📂 src/
+│   │── app.py  # Main app file
+│   │── stock_analysis.py  # Stock price and trend analysis
+│   │── news_scraper.py  # Fetching news for stock market
+│   │── agent.py  # LangChain-based AI Agent
+│── 📂 notebooks/
+│   │── analysis.ipynb  # Jupyter Notebook for data analysis
+│── 📂 docs/
+│   │── presentation.pptx  # CodeCraft Presentation
+│── 📜 requirements.txt
+│── 📜 .gitignore
 
 ---
 
