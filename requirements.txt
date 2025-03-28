@@ -1,0 +1,7 @@
+openai
+yfinance
+langchain
+duckduckgo-search
+newspaper3k
+lxml
+typeguard
