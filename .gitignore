@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+venv/
+.env
+.env.local
+
+# Ignore checkpoints
+notebooks/.py_checkpoints
+
+# Ignore API keys (IMPORTANT)
+api_key.txt
