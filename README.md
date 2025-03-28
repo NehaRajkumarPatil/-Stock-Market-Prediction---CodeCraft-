@@ -39,11 +39,7 @@ Stock-Market-Prediction/
 
 │── 📂 notebooks/
 
-│   │── analysis.ipynb  # Jupyter Notebook for data analysis
-
-│── 📂 docs/
-
-│   │── presentation.pptx  # CodeCraft Presentation
+│   │── analysis.py  # for data analysis
 
 │── 📜 requirements.txt
 
