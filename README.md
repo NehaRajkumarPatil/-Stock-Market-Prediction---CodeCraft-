@@ -53,8 +53,10 @@ python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate  # Windows
 3. Install dependencies:
+
 pip install -r requirements.txt
 4. Set up environment variables:
+
 export OPENAI_API_KEY="your_api_key"
 (For Windows PowerShell)
 $env:OPENAI_API_KEY="your_api_key"
@@ -63,3 +65,14 @@ $env:OPENAI_API_KEY="your_api_key"
 Run the main application:
 python src/app.py
 It will fetch real-time stock prices, recent news, and perform trend analysis.
+
+## 🏆 Features
+✅ Real-time Stock Price Fetching
+✅ AI-powered Financial Insights using LangChain
+✅ Stock Market News Scraping
+✅ Business Model Analysis & Prediction
+
+## 🎯 Future Scope
+🚀 Machine Learning-based Stock Price Prediction
+📊 Sentiment Analysis on News Articles
+📡 Integration with Trading APIs
